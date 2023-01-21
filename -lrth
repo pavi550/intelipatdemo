@@ -1,0 +1,61 @@
+[33mcommit 1edf3e2661f4e5532b62feb3ed06c3dada644f1e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: pavi550 <pavi550@gmail.com>
+Date:   Sat Jan 21 20:27:08 2023 +0530
+
+    today2
+
+[33mcommit 9ef94ea943846bd7ba062d8219691e934f552912[m[33m ([m[1;32mPraveen_testing[m[33m)[m
+Author: pavi550 <pavi550@gmail.com>
+Date:   Sun Jan 15 22:38:38 2023 +0530
+
+    folder
+
+[33mcommit 5bac184c098f5bd14242c9126cbc3f828b499080[m
+Author: pavi550 <pavi550@gmail.com>
+Date:   Sun Jan 15 22:29:48 2023 +0530
+
+    Update index.html
+
+[33mcommit 150cf39353dc7627b2b044f034e9050515d2f212[m
+Author: pavi550 <pavi550@gmail.com>
+Date:   Sun Jan 15 22:26:41 2023 +0530
+
+    Update index.html
+
+[33mcommit a7b3cf11bbf85994c4e507090ff461e120693fd6[m
+Author: pavi550 <pavi550@gmail.com>
+Date:   Sun Jan 15 22:21:24 2023 +0530
+
+    base
+
+[33mcommit fe587e5cccebbe20fa9836025d832820bb9f39b4[m
+Author: pavi550 <pavi550@gmail.com>
+Date:   Sun Jan 15 21:54:52 2023 +0530
+
+    Revert "praveen"
+    to fix issue
+    This reverts commit 4dfb9d6556d3abe921cd64a80b18f9d74a2e9cf3.
+
+[33mcommit fccfb1af5a154826f24c904a8d050faf453ef3e8[m
+Author: pavi550 <pavi550@gmail.com>
+Date:   Sun Jan 15 22:12:19 2023 +0530
+
+    Create README.md
+
+[33mcommit 4dfb9d6556d3abe921cd64a80b18f9d74a2e9cf3[m[33m ([m[1;32mpraveen_test_sub[m[33m, [m[1;32mpraveen_test[m[33m)[m
+Author: pavi550 <pavi550@gmail.com>
+Date:   Sun Jan 15 21:07:12 2023 +0530
+
+    praveen
+
+[33mcommit e334af2b1633b651b00f6262268a86e73f9ea889[m
+Author: pavi550 <pavi550@gmail.com>
+Date:   Sun Jan 15 20:48:53 2023 +0530
+
+    second commit
+
+[33mcommit c9617ecb26a37e4b8220fdf03f2e2a33929ab261[m
+Author: Praveen Kumar <kumaprap@oradev.oraclecorp.com>
+Date:   Sat Jan 14 22:58:22 2023 +0530
+
+            new file:   index.html
