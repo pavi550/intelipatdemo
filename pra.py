@@ -1,1 +1,2 @@
-print(n)
+num=int(input("enter number"))
+print(num)
